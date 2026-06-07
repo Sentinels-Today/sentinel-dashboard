@@ -2,7 +2,7 @@
   "name": "sentinel-dashboard",
   "version": "0.1.0",
   "private": true,
-  "description": "Fleet operations web UI for Sentinel Labs",
+  "description": "Fleet operations web UI for Sentinels",
   "license": "Apache-2.0",
   "engines": {
     "node": ">=20"

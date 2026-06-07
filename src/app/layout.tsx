@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 
 export const metadata: Metadata = {
   title: "Sentinels Dashboard",
-  description: "Fleet operations UI for Sentinel Labs.",
+  description: "Fleet operations UI for Sentinels.",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {

@@ -1,6 +1,6 @@
 # sentinel-dashboard
 
-**Fleet operations web UI for Sentinel Labs.** Next.js 14 (App Router) + React 18 + TypeScript reference dashboard. Shows device cards with trust badges and wires up to the [`sentinel-cloud`](https://github.com/Sentinels-Today/sentinel-cloud) API.
+**Fleet operations web UI for Sentinels.** Next.js 14 (App Router) + React 18 + TypeScript reference dashboard. Shows device cards with trust badges and wires up to the [`sentinel-cloud`](https://github.com/Sentinels-Today/sentinel-cloud) API.
 
 [![ci](https://github.com/Sentinels-Today/sentinel-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/Sentinels-Today/sentinel-dashboard/actions/workflows/ci.yml)
 ![license](https://img.shields.io/badge/license-Apache--2.0-blue)
